@@ -1,0 +1,19 @@
+body{background-color: rgb(100, 29, 29);
+    color: beige;
+}
+#div2{
+border: 10px solid rgb(44, 2, 2);
+    
+}
+#div3{
+    border: 5px solid rgb(252, 249, 249);
+
+}
+#div4{
+    border: 5px solid rgb(252, 249, 249);
+
+}
+.div_destaque{
+    border: 5px solid rgb(44, 2, 2);
+
+}
